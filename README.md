@@ -80,7 +80,7 @@ Adeyanju Quasim
 
 - 📧 Email: [quasim132@gmail.com](mailto:quasim132@gmail.com)
 - &#x20;Twitter: [@Working_Defi](https://twitter.com/Working_Defi)
-- [Discord: quasim_100_17462](https://discord.com/users/quasim_100_17462)
+- Discord: [quasim_100_17462](https://discord.com/users/quasim_100_17462)
 - &#x20;[LinkedIn](https://www.linkedin.com/in/quasim-adeyanju-858753282/)
 
 ---
