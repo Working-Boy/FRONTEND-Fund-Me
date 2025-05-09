@@ -64,9 +64,9 @@ export const contractAddress = "0x..."; // Your deployed contract address
 
 ## 📸 Screenshots
 
-> ![App Screenshot](./Screenshot 2025-05-09 222527.png)
+> ![App Screenshot](./fundme-screenshot.png)
 
-[Click here to download the screenshot](./Screenshot 2025-05-09 222527.png)
+[Click here to download the screenshot](./fundme-screenshot.png)
 
 ---
 
